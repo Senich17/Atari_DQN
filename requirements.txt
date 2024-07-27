@@ -1,0 +1,8 @@
+numpy==1.25.2
+matplotlib==3.7.1
+gymnasium==0.29.1
+atari-py==0.2.9
+wandb==0.17.5
+stable-baselines3==2.3.2
+pandas==2.0.3
+torch==2.3.1+cu121
