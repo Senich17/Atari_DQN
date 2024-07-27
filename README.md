@@ -1,7 +1,7 @@
 # Atari_DQN
 Learning based on the deep Q-network
 
-## Воспрроизведение результатов DQN на играх Atari.
+## Воспроизведение результатов DQN на играх Atari.
 
 * Некоторые игры могут потребовать специфических методов(пример - Montezuma's Revenge, etc)
 * Используются техники из статьи DeepMind: replay buffer, frame skip, target network.
